@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b17f0ca-7419-4f07-b423-716f4deec3d0">
+  <name>Sklad</name>
+  <synonym>
+    <key>ru</key>
+    <value>Sklad</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="de85ffa3-c568-431b-92a0-83c759271574"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cb023d1b-b7f6-4861-b972-f8a852f9486b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="b0464fa0-2ab5-4d18-9e46-6d296fecaf54"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="68e5a7ea-c25a-4495-a227-c33a1ec413f2"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="8ce050f6-4588-4204-b31e-5427b7e236c2"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="2630b987-3bad-4c31-9c28-9c1f85bc8c44"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="17b9d566-f7b7-438a-8874-ddfc1bc09567"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.24</compatibilityMode>
+  <languages uuid="74504612-7415-4ef2-8c9b-2d85579e1437">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Покупки</subsystems>
+  <subsystems>Subsystem.Склад</subsystems>
+  <catalogs>Catalog.КонтактныеЛица</catalogs>
+  <documents>Document.ПростоДокумент</documents>
+</mdclass:Configuration>
