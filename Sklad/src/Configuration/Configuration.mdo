@@ -42,5 +42,6 @@
   <subsystems>Subsystem.Склад</subsystems>
   <catalogs>Catalog.КонтактныеЛица</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПростоДокумент</documents>
 </mdclass:Configuration>
