@@ -40,8 +40,10 @@
   </languages>
   <subsystems>Subsystem.Покупки</subsystems>
   <subsystems>Subsystem.Склад</subsystems>
+  <subsystems>Subsystem.Справочники</subsystems>
   <catalogs>Catalog.КонтактныеЛица</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Подразделение</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <documents>Document.ПростоДокумент</documents>
 </mdclass:Configuration>
